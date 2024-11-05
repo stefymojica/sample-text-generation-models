@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=xE_msdWg3Pg&list=PLZVwXPbHD1KOdakiTGLjITToPSJhehCSB&index=2
+
+https://www.youtube.com/watch?v=SmLduu0IYTM&list=PLZVwXPbHD1KOdakiTGLjITToPSJhehCSB
+
+https://ollama.com/blog/embedding-models
+
+https://github.com/ollama/ollama-python
