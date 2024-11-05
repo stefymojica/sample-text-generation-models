@@ -8,4 +8,3 @@ stream = ollama.chat(
 
 for chunk in stream:
     print(chunk["message"]["content"], end="", flush=True)
-
